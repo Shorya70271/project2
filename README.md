@@ -1,4 +1,4 @@
-# project2
+# simple  calculator 
 
 Example: Simple Calculator using switch Statement
 import java.util.Scanner;
